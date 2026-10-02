@@ -1,6 +1,21 @@
-Project title: Virtual Temperature Sensor Driver with C++ Monitoring and Alert System
-Problem: what problem exists when real sensor hardware isn't available
-Objective: what you are building, in one or two sentences
-Scope: what is included, and what is not (real hardware, multiple sensors)
-Expected outcome: what a working demo looks like
-Applications: where this kind of driver is used (embedded systems, IoT, factory monitoring)
+# Stage 1: Project Introduction
+
+## Project title
+...Virtual-Sensor-Driver
+
+## Problem statement
+...Sensor software can't be tested without real hardware
+
+## Objective
+...A kernel driver that acts like a sensor, plus a C++ app that reads it
+
+## Scope
+**In scope:** ...
+**Out of scope:** ...
+One device, one app, no real hardware
+
+## Expected outcome
+...Live readings, an alert at the threshold, and a log file
+
+## Applications
+...Embedded systems, IoT, factory monitoring
