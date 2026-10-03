@@ -5,3 +5,5 @@
 .*.cmd
 Module.symvers
 modules.order
+app/vsensor_app
+app/vsensor.log
