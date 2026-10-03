@@ -40,4 +40,4 @@ Ubuntu 25.04 VM (VirtualBox), kernel 7.0.0-38-generic, GCC 15.
 ## Limitations and future work
 - Simulated data only (random walk)
 - Single sensor instance
-- Future: multiple sensors, sysfs attributes, epoll-based daemon, device tree# Virtual-Sensor-Driver
+- Future: multiple sensors, sysfs attributes, epoll-based daemon, device tree
