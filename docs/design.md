@@ -20,7 +20,7 @@ flowchart TB
         WQ[Wait queue]
         DW[Delayed work - simulated sensor sampling]
         DATA[(struct vsensor_dev + mutex)]
-        PROC[/proc/vsensor]
+        PROC["/proc/vsensor"]
         FOPS --- DATA
         DW --> DATA
         DW -->|wake_up| WQ
