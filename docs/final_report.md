@@ -1,6 +1,6 @@
 # Virtual Sensor Driver: Final Project Report
 
-**Author:** [Your full name]
+**Author:** Supriya Subhalaxmi Das
 **Training:** Linux, Device Drivers, System Programming and C++ (20-day program)
 **Date:** 04 Oct 2026
 **Repository:** https://github.com/CODER-SUPRIYA/Virtual-Sensor-Driver
